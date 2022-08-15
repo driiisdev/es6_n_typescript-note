@@ -1,0 +1,3 @@
+// Scope
+
+// Block scope - varr
