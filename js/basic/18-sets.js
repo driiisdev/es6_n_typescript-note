@@ -17,3 +17,9 @@ console.log(chainSet.size);
 newSet.delete(1);
 console.log(newSet.has(1));
 console.log(newSet.size);
+
+// foreach loop
+mySet.forEach((value, key)=>{
+    console.log(`${key} : ${value}`);
+})
+// nb: in set, the key and value is the same
