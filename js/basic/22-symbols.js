@@ -36,4 +36,4 @@ console.log(`for number :- ${typeof num[Symbol.iterator]}`);//output: undefined
 console.log(`for object :- ${typeof obj[Symbol.iterator]}`); //output: undefined
 
 // hence, number and object are not iterable (i.e can not be used in a for of loop).
-// to iterate an object, an iterator function needs to be created to perfume the task.
+// to iterate an object, an iterator function needs to be created to perform the task.
